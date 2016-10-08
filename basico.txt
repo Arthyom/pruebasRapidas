@@ -1,1 +1,4 @@
 basico haciendo commits
+pero y si pasa algo que no quiero que pase en mi repo local???
+y si la cago y necesito volver a un commit anterior por que el pragrama ya no 
+hace nada???
